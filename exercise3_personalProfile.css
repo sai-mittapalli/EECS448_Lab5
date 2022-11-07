@@ -1,0 +1,38 @@
+body
+{
+    background-color: lightsteelblue;
+    background-image: url("ex3Background.jpg");
+    background-size: cover;
+}
+
+.profileSection
+{
+    background-color: aliceblue;
+}
+
+#firstVideo
+{
+    background-color: cornflowerblue;
+    float: left;
+}
+
+#secondVideo
+{
+    background-color: crimson;
+    float: right;
+}
+
+#firstVideo:hover
+{
+    background-color: midnightblue;
+}
+
+#secondVideo:hover
+{
+    background-color: maroon;
+}
+
+#bioPara
+{
+    font-family: monospace;
+}
